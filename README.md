@@ -13,8 +13,8 @@ The first player to reach 100 points on GLOBAL score wins the game.
 ![My Image](dice-images/dice-game-flowchart.png)
 
 ## Features implemented
-* change the content and styles of HTML elements
-* add and delete HTML elements
+* change the content and styles of HTML elements dinamically
+* add and delete HTML elements dinamically
 * react to HTML events (executed JS code when a user clicks on a button)
 * responsive design
 
